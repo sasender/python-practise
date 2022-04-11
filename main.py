@@ -1,5 +1,5 @@
 print ('hello-bhanti')
-£programe to calculate 
+//programe to calculate
 a = 100
 b = 350 
 c = 450 
