@@ -6,5 +6,5 @@ c = 450
 d = 750
 movieticketfare = 100
 total = a + b + c + d
-print = (total)
-print = (total/movieticketfare)
+print (total)
+print (total/movieticketfare)
