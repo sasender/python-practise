@@ -22,6 +22,11 @@ calculate () ;  '''
 import re
 
 
-cash = 1000
-remainingAmount = 10000
-print ('take your cash',cash,remainingAmount,sep="->")
+cash = int(input('enter your cash here'))
+SavingsAmount = 10000
+remainingAmt=(SavingsAmount-cash)
+savingsAmt=remainingAmt
+print('type of cash is: ',type(cash))
+print ('take your cash',cash,remainingAmt,sep="->",end="===")
+print('thank you',end="\t")
+print('thanks sasender')
